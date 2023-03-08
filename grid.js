@@ -1,4 +1,4 @@
-/* Author: @UnrealSec */
+/* Author: @st1ko-gs */
 
 function Grid(width, height, config, fill=' ') {
     this.grid = [];
